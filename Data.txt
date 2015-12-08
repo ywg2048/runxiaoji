@@ -1,0 +1,8 @@
+--insert into users_frienddata(UserSN, FriendSN)
+--select 23, id from users_userdata where id <> 23
+
+--select Level_HP, Level_Magnet, Level_GodDash, Level_Shield, Level_Big, Level_Small from GameData_characterdata where UserSN == 23
+--update GameData_characterdata set Level_HP = 1, Level_Magnet = 1, Level_GodDash = 1, Level_Shield = 1, Level_Big = 1, Level_Small = 1 where UserSN == 23
+
+--select Level from GameData_vehicledata where UserSN == 23
+--update GameData_vehicledata set Level = 1 where UserSN == 23
